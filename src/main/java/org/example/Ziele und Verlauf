@@ -1,0 +1,31 @@
+Schwerpunkte:
+1) 9-15 Kernarbeitszeiten
+2) jeden Tag im Büro
+3) Agenda für den Tag (optional für mich selbst)
+4) Beginn des Tages- ich melde (telefonisch) mich bei Lukas/Martin (Wenn Lukas antwortet 10 Minuten nicht dann Martin)
+5) Ende des Tages- Lukas/Martin telefonisch kontaktieren
+__________________________________________
+
+2024-01-15:
+____________Ziele:
+1) *gemacht um 13:24*   GitHub Repository erstellen
+2) *gemacht*            Aufgabe anfangen und möglichst weit durchmachen
+3) *gemacht um 16:49*   mich bei Martin melden
+____________Verlauf:
+09:00-09:30 Gespräch mit luw in MS Teams
+09:30-10:20 habe E-Mails durchgelesen
+10:20-11:00 Aufgabe "Aufgabe Mo-Mi" von luw ist durchgelesen und Gedanken über Erledigung gemacht
+11:00-11:20 vorherige Projekte angeschaut und Kenntnisse über Java erfrischt
+11:20-11:50 Gespräch mit sfh
+11:50-12:30 vorherige Projekte angeschaut und Kenntnisse über Java erfrischt
+12:30-13:40 mit Google und ChatGPT habe erforscht und festgestellt welche Bibliotheken und Methoden könnte ich für Aufgabe nutzen
+13:24 GitHub Repository ist erstellt
+13:40- 14:15 GeheimnisZahlGenerator erstellt und funktioniert
+14:15-15:00 habe Methoden implementiert die ermöglichen dem Benutzer Zahlen einzugeben und dann diese Zahlen zu speichern. funktioniert noch nicht
+15:00-15:30 Pause
+15:30-15:45 weitere Arbeit mit den Benutzereingaben. Scanner Methode ist implementiert und funktioniert. gerateneZahl speichert Eingaben.
+15:45-15:55 Um Code besser zu organisieren ich habe alles in Main eingepackt und andere Klassen sind jetzt gelöscht
+15:55-16:30 Durch Do-While Schleife Überprüfung und Ausgaben sind implementiert. Jetzt Scanner kann vergleichen ob gerateneZahl und geheimnisZahl gleich sind oder nicht und entsprechende Hinweise werden ausgegeben.
+16:00-16:45 Anzahl von Fehlversuche ist jetzt in Variable versuche gespeichert und dank dieser Variable kann ausgegeben werden
+16:45-17:00 Tests und Ausgabenanpassung
+17:00-17:?? Gespräch mit mh via MS Teams
